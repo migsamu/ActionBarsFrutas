@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActionBarsCodigoExercise</string>
+    <string name="manzanas">Manzanas</string>
+    <string name="golden">Golden</string>
+    <string name="pink_lady">Pink lady</string>
+    <string name="platanos">Platanos</string>
+    <string name="peras">Peras</string>
+    <string name="conferencia">Conferencia</string>
+    <string name="limonera">Limonera</string>
+    <string name="descripcion">Imagen fruta</string>
+</resources>

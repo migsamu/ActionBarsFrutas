@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mm_manzana"
+        android:title="@string/manzanas">
+        <menu>
+            <item
+                android:id="@+id/mm_golden"
+                android:title="@string/golden" />
+            <item
+                android:id="@+id/mm_lady"
+                android:title="@string/pink_lady" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/mm_platano"
+        android:title="@string/platanos"></item>
+    <item
+        android:id="@+id/mm_pera"
+        android:title="@string/peras">
+        <menu>
+            <item
+                android:id="@+id/mm_conferencia"
+                android:title="@string/conferencia" />
+            <item
+                android:id="@+id/mm_limonera"
+                android:title="@string/limonera" />
+        </menu>
+    </item>
+</menu>
