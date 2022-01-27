@@ -4,16 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivityConJava">
 
     <ImageView
-        android:id="@+id/ivFrutas"
-        android:layout_width="330dp"
-        android:layout_height="243dp"
-        android:layout_marginTop="229dp"
+        android:id="@+id/mcj_ivFruta"
+        android:layout_width="260dp"
+        android:layout_height="225dp"
+        android:layout_marginTop="196dp"
         android:contentDescription="@string/descripcion"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>

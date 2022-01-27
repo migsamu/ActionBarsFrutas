@@ -28,4 +28,7 @@
                 android:title="@string/limonera" />
         </menu>
     </item>
+    <item
+        android:id="@+id/mm_java"
+        android:title="@string/menu_java" />
 </menu>
